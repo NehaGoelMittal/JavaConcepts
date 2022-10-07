@@ -7,6 +7,7 @@ public class childFirefox extends FirefoxDriver
 	{
 		captureScreenShot();
 		test123();
+		//system
 	}
 
 	// This is second level class, no need to define method
