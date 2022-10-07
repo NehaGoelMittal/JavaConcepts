@@ -21,7 +21,7 @@ public class constructorChaining {
 	{
 		
 		System.out.println("add");
-		System.out.println("add testing");
+		//System.out.println("add testing");
 		
 	}
 	public constructorChaining(String studentName, int rollNum)
