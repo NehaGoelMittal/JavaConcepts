@@ -21,6 +21,7 @@ public class linkedList {
 		ls.add("Australia2");
 		ls.add("China1");
 		ls.add(null);
+		ls.add (null);
 
 
 		System.out.println(ls.get(2));
